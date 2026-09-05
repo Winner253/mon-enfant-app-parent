@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Mon Enfant - Parent",
+    "slug": "mon-enfant-app-parent",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.monenfant.appparent",
+      "config": {
+        "googleMaps": {
+          "apiKey": "REMPLACE_PAR_TA_CLE_GOOGLE_MAPS"
+        }
+      }
+    }
+  }
+}
