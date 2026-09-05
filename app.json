@@ -16,11 +16,6 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "config": {
-        "googleMaps": {
-          "apiKey": "REMPLACE_PAR_TA_CLE_GOOGLE_MAPS"
-        }
       }
     }
   }
